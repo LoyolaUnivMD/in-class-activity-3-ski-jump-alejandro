@@ -1,0 +1,10 @@
+1) Explain the code to the user
+2) Ask user to input height
+3) Ask user to input speed
+4) Calculate distance
+5) Calculate time_in_air using the Math.sqrt() function
+6) Use if statement and else if statement to determine par and points_per_meter
+7) Calculate points_earned
+8) Output to the user points_earned and distance
+9)  Use an if, else if, and else statement to determine whether
+    the points are good or bad.
